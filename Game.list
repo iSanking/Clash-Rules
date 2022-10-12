@@ -587,8 +587,8 @@ DOMAIN-SUFFIX,xbox360.org
 DOMAIN-SUFFIX,xboxab.com
 DOMAIN-SUFFIX,xboxgamepass.com
 DOMAIN-SUFFIX,xboxgamestudios.com
-DOMAIN-SUFFIX,xboxlive.cn
-DOMAIN-SUFFIX,xboxlive.com
+# DOMAIN-SUFFIX,xboxlive.cn
+# DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,xboxone.co
 DOMAIN-SUFFIX,xboxone.com
 DOMAIN-SUFFIX,xboxone.eu
